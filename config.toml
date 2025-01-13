@@ -1,3 +1,15 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://gristlan.github.io/ideal-happiness/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Universal Joy'
+author = 'Perclink'
+description = """
+Play
+Beyond
+Barriers
+"""
+profilePicture = "images/initial.png"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "universaljoystudios@outlook.com"
